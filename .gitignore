@@ -1,0 +1,4 @@
+*.classpath
+cda-algo/.settings/
+*.project
+cda-algo/bin/
